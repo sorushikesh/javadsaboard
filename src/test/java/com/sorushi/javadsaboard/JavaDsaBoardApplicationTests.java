@@ -10,8 +10,8 @@ class JavaDsaBoardApplicationTests {
 
 	@Test
 	void dummyTest() {
-		int expected = 2;
-		int actual = 1 + 1;
+		int expected = 4;
+		int actual = 1 + 3;
 		assertEquals(expected, actual, "Dummy test should pass");
 	}
 }
